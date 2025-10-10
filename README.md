@@ -1,10 +1,10 @@
-# 🎯 Web Development Quiz App
+#  Web Development Quiz App
 
 Test your web development knowledge with this **interactive quiz app** built with **HTML, CSS, and JavaScript**!  
 
 ---
 
-## 🚀 Features
+##  Features
 
 - ✅ Multiple-choice questions (5 included)
 - ✅ Highlight correct and incorrect answers
@@ -15,7 +15,7 @@ Test your web development knowledge with this **interactive quiz app** built wit
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **HTML** – for structure  
 - **CSS** – for styling and responsive design  
@@ -23,7 +23,7 @@ Test your web development knowledge with this **interactive quiz app** built wit
 
 ---
 
-## 🎮 How to Use
+##  How to Use
 
 1. Open the `index.html` file in any modern web browser.  
 2. Click **Start Quiz** to begin.  
@@ -35,14 +35,14 @@ Test your web development knowledge with this **interactive quiz app** built wit
 
 ---
 
-## ✍ Author
+##  Author
 
 **Prachi Singh**  
 GitHub: [prachi600](https://github.com/prachi600)  
 
 ---
 
-## 🌟 Bonus
+##  Bonus
 
 You can **expand this app** by:  
 - Adding more questions  
@@ -50,5 +50,5 @@ You can **expand this app** by:
 - Making it mobile-friendly  
 - Adding a timer for each question
 
-## 📁 Folder Structure
+
 
