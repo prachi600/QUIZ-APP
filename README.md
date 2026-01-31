@@ -21,26 +21,6 @@ Test your web development knowledge with this **interactive quiz app** built wit
 - **CSS** – for styling and responsive design  
 - **JavaScript** – for interactive quiz logic
 
----
-
-##  How to Use
-
-1. Open the `index.html` file in any modern web browser.  
-2. Click **Start Quiz** to begin.  
-3. Select the correct answer for each question.  
-4. Click **Next** to go to the following question.  
-5. At the end, view your score and click **Play Again** to restart the quiz.
-
----
-
----
-
-##  Author
-
-**Prachi Singh**  
-GitHub: [prachi600](https://github.com/prachi600)  
-
----
 
 ##  Bonus
 
